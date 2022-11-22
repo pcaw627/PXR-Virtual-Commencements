@@ -1,0 +1,62 @@
+Adobe After Effects v22.2.1 Windows 64 render log for project “commencement slides.aep”
+
+Rendering started on 4/28/2022 at 3:26:28 AM
+
+  4/28/2022 3:26:28 AM: Starting composition “B-Radford-Kolby-1877435”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Radford-Kolby-1877435.mov    4/28/2022 3:26:31 AM: Finished composition “B-Radford-Kolby-1877435”.
+
+
+  4/28/2022 3:26:31 AM: Starting composition “B-Scimmons-Lauren-1665662”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Scimmons-Lauren-1665662.mov    4/28/2022 3:26:33 AM: Finished composition “B-Scimmons-Lauren-1665662”.
+
+
+  4/28/2022 3:26:33 AM: Starting composition “B-Libby-Tanya-1438163”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Libby-Tanya-1438163.mov    4/28/2022 3:26:35 AM: Finished composition “B-Libby-Tanya-1438163”.
+
+
+  4/28/2022 3:26:35 AM: Starting composition “B-Watson-Georgette-1948863”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Watson-Georgette-1948863.mov    4/28/2022 3:26:37 AM: Finished composition “B-Watson-Georgette-1948863”.
+
+
+  4/28/2022 3:26:37 AM: Starting composition “B-Reynolds-Tyler-1544146”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Reynolds-Tyler-1544146.mov    4/28/2022 3:26:39 AM: Finished composition “B-Reynolds-Tyler-1544146”.
+
+
+  4/28/2022 3:26:39 AM: Starting composition “B-Schloff-LeeAnn-1965291”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Schloff-LeeAnn-1965291.mov    4/28/2022 3:26:41 AM: Finished composition “B-Schloff-LeeAnn-1965291”.
+
+
+  4/28/2022 3:26:41 AM: Starting composition “B-Merriman-Brenda-1658191”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Merriman-Brenda-1658191.mov    4/28/2022 3:26:44 AM: Finished composition “B-Merriman-Brenda-1658191”.
+
+
+  4/28/2022 3:26:44 AM: Starting composition “B-Stone-Kelsey-1758362”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Stone-Kelsey-1758362.mov    4/28/2022 3:26:46 AM: Finished composition “B-Stone-Kelsey-1758362”.
+
+
+  4/28/2022 3:26:46 AM: Starting composition “B-Macklin-Vicki-1878151”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Macklin-Vicki-1878151.mov    4/28/2022 3:26:48 AM: Finished composition “B-Macklin-Vicki-1878151”.
+
+
+  4/28/2022 3:26:48 AM: Starting composition “B-Williams-Brad-1727401”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Williams-Brad-1727401.mov    4/28/2022 3:26:50 AM: Finished composition “B-Williams-Brad-1727401”.
+
+
+  4/28/2022 3:26:50 AM: Starting composition “B-Okereke-Peter-1313552”.
+
+  Output To: D:\autosnhu\templater_out\Export_4-27\B-Okereke-Peter-1313552.mov    4/28/2022 3:26:52 AM: Finished composition “B-Okereke-Peter-1313552”.
+
+
+  Total Time Elapsed: 24 Seconds
+Log closed on 4/28/2022 at 3:26:52 AM
+

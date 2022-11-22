@@ -1,0 +1,481 @@
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : keepsake_v1.aep                             |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-23 @ 01:47:05 [LOG]                :	Session started =>
+						Saturday at 1:47:5 on 2022-4-23
+
+2022-04-23 @ 01:47:05 [MAIN]               :	This installation of Templater distributed by Dataclay
+2022-04-23 @ 01:47:05 [MAIN]               :	Templater is searching for manufacturer's licensing framework.
+2022-04-23 @ 01:47:05 [MAIN]               :	Initializing Templater GUI =>
+						[object Panel]
+
+2022-04-23 @ 01:47:07 [PREFS]              :	Loading all XMP data to various ui and preferences
+2022-04-23 @ 01:48:07 [GOOGLE API ERROR]   :	401 : Invalid Credentials =>
+						No further details provided by Google Sheets API v4.
+
+2022-04-23 @ 01:48:07 [GOOGLE DOCS]        :	Error retrieving list of spreadsheets in google drive account =>
+						TypeError: undefined is not an object
+
+2022-04-23 @ 01:48:23 [GOOGLE TOKEN]       :	Getting original access token
+2022-04-23 @ 01:48:24 [GOOGLE TOKEN]       :	Sucessfully retrieved token data!
+2022-04-23 @ 01:48:24 [GOOGLE DOCS]        :	Retrieved all spreadsheets on Google Drive account
+2022-04-23 @ 01:48:27 [GOOGLE SHEET]       :	Retrieving worksheets for [ SNHU Templater ].  Please wait... =>
+						https://sheets.googleapis.com/v4/spreadsheets/1TU17QOjZQh977n29CQnLWU8OW9mEIvexgEssSKGsj5c
+
+2022-04-23 @ 02:12:09 [GOOGLE DOCS]        :	Retrieved all spreadsheets on Google Drive account
+2022-04-23 @ 02:12:11 [GOOGLE SHEET]       :	Retrieving worksheets for [ SNHU Templater ].  Please wait... =>
+						https://sheets.googleapis.com/v4/spreadsheets/1TU17QOjZQh977n29CQnLWU8OW9mEIvexgEssSKGsj5c
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-25 @ 17:01:57 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.31                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-25 @ 18:02:48 [LOG]                :	Session started =>
+						Monday at 18:2:48 on 2022-4-25
+
+2022-04-25 @ 18:02:48 [MAIN]               :	This installation of Templater distributed by Dataclay
+2022-04-25 @ 18:02:48 [MAIN]               :	Templater is searching for manufacturer's licensing framework.
+2022-04-25 @ 18:02:48 [MAIN]               :	Initializing Templater GUI =>
+						[object Panel]
+
+2022-04-25 @ 18:02:49 [PREFS]              :	Loading all XMP data to various ui and preferences
+2022-04-25 @ 18:32:31 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-25 @ 18:35:35 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-25 @ 20:09:01 [LOG]                :	Session started =>
+						Monday at 20:9:1 on 2022-4-25
+
+2022-04-25 @ 20:09:01 [MAIN]               :	This installation of Templater distributed by Dataclay
+2022-04-25 @ 20:09:01 [MAIN]               :	Templater is searching for manufacturer's licensing framework.
+2022-04-25 @ 20:09:01 [MAIN]               :	Initializing Templater GUI =>
+						[object Panel]
+
+2022-04-25 @ 20:09:16 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-25 @ 20:09:31 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-25 @ 20:10:07 [ACTIVATION]         :	Extending the Templater Trial license using code =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-25 @ 20:10:14 [ACTIVATION]         :	Extending the Templater Trial license using code
+2022-04-25 @ 20:10:23 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 10:45:52 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 10:52:29 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 10:56:41 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 11:05:08 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 11:05:16 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : Liam @ STITCHER                             |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : keepsake_v1.aep                             |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-26 @ 17:40:43 [LOG]                :	Session started =>
+						Tuesday at 17:40:43 on 2022-4-26
+
+2022-04-26 @ 17:40:43 [MAIN]               :	This installation of Templater distributed by Dataclay
+2022-04-26 @ 17:40:43 [MAIN]               :	Templater is searching for manufacturer's licensing framework.
+2022-04-26 @ 17:40:43 [MAIN]               :	Initializing Templater GUI =>
+						[object Panel]
+
+2022-04-26 @ 17:41:06 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-26 @ 17:41:44 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : phill @ DESKTOP-90Q84SV                     |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.2.1x3                                    |
+|        Project Name          : commencement slides.aep                     |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+2022-04-27 @ 13:11:15 [LOG]                :	Session started =>
+						Wednesday at 13:11:15 on 2022-4-27
+
+2022-04-27 @ 13:11:15 [MAIN]               :	This installation of Templater distributed by Dataclay
+2022-04-27 @ 13:11:15 [MAIN]               :	Templater is searching for manufacturer's licensing framework.
+2022-04-27 @ 13:11:15 [MAIN]               :	Initializing Templater GUI =>
+						[object Panel]
+
+2022-04-27 @ 13:11:36 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-27 @ 13:11:59 [ACTIVATION]         :	Extending the Templater Trial license using code =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+2022-04-27 @ 13:12:04 [ACTIVATION]         :	Activating Templater using product key =>
+						QHA3-9D8I-782N-MZMI-PW5N-RB2W-UITA
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : phill @ DESKTOP-90Q84SV                     |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.2.1x3                                    |
+|        Project Name          : keepsake_v1.aep                             |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : phill @ DESKTOP-AIRJO3P                     |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : keepsake_v2_5-4-22.aep                      |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 2.9.7 [ Build 9465 ]                |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : phill @ DESKTOP-AIRJO3P                     |
+|        Operating System      : Win 10.0.22000.61                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
++----------------------------------------------------------------------------+
+|          ______                     __      __                             |
+|         /_  __/__  ____ ___  ____  / /___ _/ /____  _____                  |
+|          / / / _ \/ __ `__ \/ __ \/ / __ `/ __/ _ \/ ___/                  |
+|         / / /  __/ / / / / / /_/ / / /_/ / /_/  __/ /                      |
+|        /_/  \___/_/ /_/ /_/ .___/_/\__,_/\__/\___/_/                       |
+|        by Dataclay       /_/   Version 3.0.0 [ Build 14020 ]               |
+|                                                                            |
+|                             ----------------                               |
+|                                                                            |
+|        User + Machine        : phill @ DESKTOP-AIRJO3P                     |
+|        Operating System      : Win 10.0.22000.67                           |
+|        After Effects Version : 22.3x107                                    |
+|        Project Name          : commencement slides.aep                     |
+|        QUE API Endpoint      : https://que-api.dataclay.com                |
+|                                                                            |
+|        Intelligent After Effects automation for versioning video.          |
+|        Templater Bot provides an enterprise solution for versioned         |
+|        video on demand and command-line interface control.                 |
+|                                                                            |
+|        |email                      |web                  |twitter          |
+|        |support@dataclay.com       |dataclay.com         |@dataclay        |
+|                                                                            |
+|          Copyright 2013-2022 Dataclay, LLC. All rights reserved.           |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
